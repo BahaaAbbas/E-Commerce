@@ -1,5 +1,9 @@
 # E-Commerce
-E-Commerce Website Full Stack Back and Front ...
+E-Commerce Website Full Stack Back and Front (MERN Stack)..
+
+Using ReactJS as the frontend framework.
+Using Node.js and Express.js as the backend environment and framework.
+Using MongoDB as the non-relational database.
 
 
 -
